@@ -41,21 +41,14 @@ Run the bot:
 ```bash
 
 node kiva.js
-
-
+```
 
 ## Contributing
 
 
 
-Credit to AirdropInsiderdID
+Credit AirdropInsiderdID
 
-
-## License
-
-
-
-MIT License
 
 
 
